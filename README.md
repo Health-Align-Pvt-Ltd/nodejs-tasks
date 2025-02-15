@@ -8,7 +8,7 @@
 5. Store the files in `public/uploads/blogs` folder by renaming orginal file name
 6. Store data in your preferred database
 
-   Estimated time duration 2 days
+   Estimated time duration 1 days
    
 
 ### Task 2
