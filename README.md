@@ -8,7 +8,7 @@
 5. Store the files in `public/uploads/blogs` folder by renaming orginal file name
 6. Store data in your preferred database
 
-   Estimated time duration 1 days
+   Estimated time duration 1 day
    
 
 ### Task 2
@@ -19,4 +19,4 @@
 5. $_REQUEST['GET_APP_NAME'] // it should return the app name
 6. $_REQUEST['GET_SUPPORT'] // it should return phone, email, address as json like 3 no.
 
-   Estimated time duration 1 days
+   Estimated time duration 1 day
